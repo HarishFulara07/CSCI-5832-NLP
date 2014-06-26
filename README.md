@@ -1,0 +1,1 @@
+HMM part of speech tagger and info extracter
